@@ -6,3 +6,4 @@ Deadly Skills:
 * Rails
 * Swift
 * Objective-C
+* Killing history using git rebase
